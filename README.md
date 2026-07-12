@@ -146,3 +146,17 @@ Found an issue, want to add more circuits, or have source files (`.circ`) to sha
 4. Open a Pull Request
 
 ---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — feel free to use these circuits for learning, teaching, or reference.
+
+---
+
+<div align="center">
+
+**⭐ If this helped you understand Digital Logic Design better, consider giving it a star!**
+
+Made with 🔌 and a lot of gates.
+
+</div>
