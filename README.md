@@ -118,3 +118,11 @@ DLD_Circuits/
 - **ODD Number Detector** — Dedicated logic to detect odd numbers.
 
 ---
+
+## 🛠️ Tools Used
+
+These circuits were designed and simulated using a digital logic circuit simulator **Logic Works**. Each `.png` is a rendered snapshot of the working circuit diagram.
+
+> 💡 If you're using a different simulator, feel free to open an issue or PR — contributions with `.cct` / project source files are welcome!
+
+---
