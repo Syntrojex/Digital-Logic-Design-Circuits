@@ -35,3 +35,50 @@ Whether you're learning combinational logic from scratch or brushing up before a
 **Total: 25 circuits**
 
 ---
+
+## 📁 Repository Structure
+
+```
+DLD_Circuits/
+├── 01_Basic_Gates_and_Latches/
+│   ├── Making NOT from XOR.png
+│   └── SR Latch.png
+│
+├── 02_Adders_and_Arithmetic/
+│   ├── Half Adder.png
+│   ├── 4-Bit Adder (A+B).png
+│   ├── 8-Bit Adder (A+B).png
+│   ├── 4-Bit 2's Complement.png
+│   ├── 2 in 1 (Add+Subtract).png
+│   ├── BCD Adder.png
+│   └── Square of 3 Bit Numbers.png
+│
+├── 03_Multiplexers/
+│   ├── 2x1 Multiplexer.png
+│   ├── 2x1 Multiplexer (From Scratch).png
+│   ├── 4x1 Multiplexer (From Scratch).png
+│   ├── 2-to-1 Quadruple Multiplexer.png
+│   ├── 17x1 MUX using 4x1 and 2x1 MUX(s).png
+│   ├── Implementing Σm(1,3,4,11,12,13,14,15) Using 4x1 Multiplexer.png
+│   ├── Implementing Σm(1,3,4,11,12,13,14,15) using Multiplexer.png
+│   └── Using Multiplexer Implementing Σm(1,2,6,7).png
+│
+├── 04_Demultiplexers/
+│   └── Demultiplexer.png
+│
+├── 05_Decoders/
+│   ├── Decoder 3x8 (Hierarchical 2x4).png
+│   ├── Decoder 4x16 (Hierarchical 2x4).png
+│   ├── Decoder 4x16 (Hierarchical 3x8).png
+│   ├── Decoder 5x32 (Hierarchical 3x8).png
+│   └── Decoder with Enable Input.png
+│
+├── 06_Number_Detectors/
+│   ├── EVEN, ODD & PRIME Detector.png
+│   └── ODD Number Detector.png
+│
+├── README.md
+└── LICENSE
+```
+
+---
