@@ -135,3 +135,14 @@ This repository serves as:
 - 🔁 A **quick-lookup archive** for common DLD circuit patterns
 
 ---
+
+## 🤝 Contributing
+
+Found an issue, want to add more circuits, or have source files (`.circ`) to share? Contributions are welcome!
+
+1. Fork the repository
+2. Add your circuit under the appropriate category folder (or create a new one)
+3. Update this README's table/structure accordingly
+4. Open a Pull Request
+
+---
