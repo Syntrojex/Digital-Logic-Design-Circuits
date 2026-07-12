@@ -12,3 +12,11 @@
 </div>
 
 ---
+
+## 📖 Overview
+
+This repository is a complete visual reference of **25 hand-built digital logic circuits**, designed and simulated as part of a Digital Logic Design course. Every circuit is organized by category, making it easy to browse, study, or reference for coursework, interviews, or revision.
+
+Whether you're learning combinational logic from scratch or brushing up before an exam, this repo walks through the building blocks of digital systems — one circuit at a time.
+
+---
