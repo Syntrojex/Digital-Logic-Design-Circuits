@@ -155,8 +155,10 @@ This project is licensed under the **MIT License** — feel free to use these ci
 
 <div align="center">
 
-**⭐ If this helped you understand Digital Logic Design better, consider giving it a star!**
+### ⭐ If this repository helped you, consider giving it a star!
 
-Made with 🔌 and a lot of gates.
+**Part of my learning journey at FAST NUCES BS-SE**
+
+**Created by [Syntrojex](https://github.com/Syntrojex)**
 
 </div>
