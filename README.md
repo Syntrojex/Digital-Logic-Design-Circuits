@@ -1,6 +1,6 @@
-# 🔌 DLD Circuits — Digital Logic Design Circuit Collection
-
 <div align="center">
+
+# 🔌 DLD Circuits — Digital Logic Design Circuit Collection
 
 ![Digital Logic Design](https://img.shields.io/badge/Course-Digital%20Logic%20Design-blue?style=for-the-badge)
 ![Circuits](https://img.shields.io/badge/Circuits-25-success?style=for-the-badge)
