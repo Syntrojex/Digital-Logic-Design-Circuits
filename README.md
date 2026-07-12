@@ -126,3 +126,12 @@ These circuits were designed and simulated using a digital logic circuit simulat
 > 💡 If you're using a different simulator, feel free to open an issue or PR — contributions with `.cct` / project source files are welcome!
 
 ---
+
+## 🎯 Purpose
+
+This repository serves as:
+- 📚 A **study reference** for Digital Logic Design coursework
+- 🧠 A **portfolio piece** demonstrating hands-on circuit design skills
+- 🔁 A **quick-lookup archive** for common DLD circuit patterns
+
+---
