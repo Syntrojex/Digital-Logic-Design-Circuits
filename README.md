@@ -138,7 +138,7 @@ This repository serves as:
 
 ## 🤝 Contributing
 
-Found an issue, want to add more circuits, or have source files (`.circ`) to share? Contributions are welcome!
+Found an issue, want to add more circuits, or have source files (`.circ` or `.cct`) to share? Contributions are welcome!
 
 1. Fork the repository
 2. Add your circuit under the appropriate category folder (or create a new one)
